@@ -1,4 +1,4 @@
-# ECE319K Lab 8 — Distributed UART Data Acquisition System
+# Distributed UART Data Acquisition System
 
 ## Overview
 This project implements a full-duplex serial communication system 
